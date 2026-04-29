@@ -2,4 +2,4 @@
 
 
 
-STATUS: Operando com novas rotas para a Europa
+STATUS: Erro crítico de overflow corrigido no painel e operando com novas rotas para a Europa!!!
